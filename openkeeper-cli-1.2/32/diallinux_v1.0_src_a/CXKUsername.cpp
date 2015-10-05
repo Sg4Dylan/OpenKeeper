@@ -10,7 +10,7 @@
 #include <stdio.h>
 
 CXKUsername::CXKUsername(CString username, INT ver, long lasttimec)
-:m_username(username),RADIUS("cqxinliradius002"),LR("\r\n")
+:m_username(username),RADIUS("jiangxi4.0"),LR("\r1")
 {
 	m_ver = ver;
 	m_lasttimec = lasttimec;
