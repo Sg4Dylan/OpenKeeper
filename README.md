@@ -1,5 +1,6 @@
 # OpenKeeper
- 　　OpenKeeper is a software to replace the NetKeeper on Linux platform. This repo add Jiangxi NetkeeperV32 support.
+ 　　OpenKeeper is a software to replace the NetKeeper on Linux platform. This fork add Jiangxi NetkeeperV32 support. 
+ 　　Warning： This version had not tested fully yet.
 ## Installation
 >apt-get install build-essential<br>
 >git clone https://github.com/purpleroc/OpenKeeper<br>
@@ -33,3 +34,5 @@ You can use:
 or
 >sudo okok-stop
 
+## Report Issues
+>https://github.com/Sg4Dylan/OpenKeeper/issues
